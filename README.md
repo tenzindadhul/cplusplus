@@ -1,2 +1,2 @@
 # cplusplus
-cplusplus repository is to store all concepts in c++ that I am currently learning by implementing these concepts through coding. 
+cplusplus repository is to store all files containing all c++ concepts I am learning by implementing these concepts through coding. 
